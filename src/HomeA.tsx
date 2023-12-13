@@ -15,6 +15,7 @@ import { ReactComponent as Right } from "./image/right.svg";
 const Wrapper = styled.div`
   position: relative;
   height: 200vh;
+  width: 100vw;
 `;
 
 const Banner = styled.div`
